@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme {
+  /* The Logo's Deep Warm Charcoal */
+  --color-background: #1a1c1a; 
+  
+  /* The Logo's Soft Cream/Ivory */
+  --color-primary: #f4f3ea;
+  
+  /* A subtle border color derived from the charcoal */
+  --color-accent: #2a2c2a; 
+  
+  --font-sans: "Inter", sans-serif;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-primary);
+  font-family: var(--font-sans);
+}
+
+* {
+  cursor: none !important;
+}
+
+/* Ensure links and buttons don't override the custom cursor */
+a, button, input, textarea, iframe {
+  cursor: none !important;
+}
