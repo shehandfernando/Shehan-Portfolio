@@ -29,7 +29,7 @@ export default function FounderBio() {
           
           <div className="flex flex-col gap-6 text-gray-400 text-lg leading-relaxed max-w-2xl">
             <p>
-              My focus is on bridging software algorithms with physical engineering. As the Founder and Software Architect of <strong className="text-primary font-medium">BuildLane</strong>, I lead a specialized initiative dedicated to engineering high-performance web applications and scalable enterprise systems.
+              My focus is on bridging software algorithms with physical engineering. As the Founder and Software Architect of <strong className="text-primary font-medium">νοῦς</strong>, I lead a specialized initiative dedicated to engineering high-performance web applications and scalable enterprise systems.
             </p>
             <p>
               I am also a Co-Founder and Developer for <strong className="text-primary font-medium">CrowdEye</strong>. Working alongside a talented development team, we are building a hardware-integrated bus passenger monitoring system. My specific focus within the group is handling the hardware integration and deploying our computer vision models at the edge on NVIDIA Jetson Orin.
