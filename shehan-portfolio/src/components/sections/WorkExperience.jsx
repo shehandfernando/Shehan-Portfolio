@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 export default function WorkExperience() {
   const experiences = [
     {
-      company: "BuildLane",
+      company: "νοῦς",
       role: "Founder / Software Architect",
       period: "2026 - Present",
       description: "Leading a specialized software development initiative. Directing system architecture, full-stack development, and delivering high-performance enterprise web solutions."

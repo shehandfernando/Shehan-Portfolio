@@ -32,7 +32,7 @@ export default function Footer() {
           © 2026 Shehan Fernando. All rights reserved.
         </p>
         <p className="text-sm text-gray-500 font-mono tracking-wide">
-          Designed and Engineered by <span className="text-primary font-medium">BuildLane LK</span>
+          Designed and Engineered by <a href="https://nousestd2026.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-primary font-medium hover:text-white transition-colors">νοῦς</a>
         </p>
       </div>
     </footer>

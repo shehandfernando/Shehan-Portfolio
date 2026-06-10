@@ -2,12 +2,12 @@ import ProjectCard from '../ui/ProjectCard';
 
 const projects = [
   {
-    title: "BuildLane",
+    title: "νοῦς",
     role: "Founder / Software Architect",
     year: "2026",
     description: "A specialized software development initiative focused on engineering high-performance web applications, scalable enterprise systems, and seamless user experiences.",
     stack: ["System Architecture", "Full-Stack", "Client Solutions"],
-    githubLink: "https://github.com/shehandfernando/buildlane"
+    githubLink: "https://nousestd2026.vercel.app/"
   },
   {
     title: "CrowdEye",
